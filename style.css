@@ -179,7 +179,7 @@ h2{
 
 #headshot{
     width: 270px;
-    height: 270px;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     border: 3px solid var(--accent-tertiary);
     border-radius: 50%;
