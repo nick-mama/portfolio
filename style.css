@@ -178,8 +178,10 @@ h2{
 }
 
 #headshot{
-    width: 280px;
-    border: 4px solid var(--accent-primary);
+    width: 270px;
+    height: 270px;
+    object-fit: cover;
+    border: 3px solid var(--accent-tertiary);
     border-radius: 50%;
     box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);
     transition: all 0.3s ease;
