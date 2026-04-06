@@ -1,4 +1,4 @@
 # portfolio
 My personal portfolio website showcasing my projects and skills
 
-https://nick-mama.github.io/portfolio/
+portfolio-ey0a6pfmc-nicks-projects-6b167205.vercel.app
